@@ -1,5 +1,6 @@
 # Atom
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2e9a3295da6c4599aee4b096cc2351cf)](https://app.codacy.com/gh/Mozafar6666/atom?utm_source=github.com&utm_medium=referral&utm_content=Mozafar6666/atom&utm_campaign=Badge_Grade)
 [![Build status](https://dev.azure.com/github/Atom/_apis/build/status/Atom%20Production%20Branches?branchName=master)](https://dev.azure.com/github/Atom/_build/latest?definitionId=32&branchName=master)
 
 > Atom and all repositories under Atom will be archived on December 15, 2022. Learn more in our [official announcement](https://github.blog/2022-06-08-sunsetting-atom/)
